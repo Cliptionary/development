@@ -1,6 +1,5 @@
 # development
-First pass development
-This is the intial work file for the Cliptionary project.
+First pass development: the intial work file for the Cliptionary project.
 
 The objects are:
 
